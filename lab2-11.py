@@ -1,4 +1,4 @@
-//WAP to classify a given number is prime or no composite.
+#WAP to classify a given number is prime or no composite.
 
 num = int(input("Enter the number: "))
 count=0
