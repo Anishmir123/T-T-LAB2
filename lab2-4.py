@@ -1,5 +1,5 @@
 
-//WAP to find a given year is leap year.
+#WAP to find a given year is leap year.
 year = int(input("Enter The Year: "))
 
 if (year % 400 ==0) :
