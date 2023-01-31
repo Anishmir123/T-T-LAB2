@@ -1,3 +1,4 @@
+#WAP to calculate tax of an employ as per the present income tax norms.
 income = int(input("Enter your income: "))
 tax =0
 if income <= 250000:  
