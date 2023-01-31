@@ -1,3 +1,4 @@
+//WAP to calculate sum of a series
 num = int(input("Enter the number n:"))
 fact = 1
 sum=0
