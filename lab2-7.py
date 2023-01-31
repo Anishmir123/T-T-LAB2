@@ -1,3 +1,5 @@
+#WAP to read numbers till _1 is encountered. Find the positive and negative numbers
+entered by user.
 num = int(input("Enter the number: "))
 
 pos=0
