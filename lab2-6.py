@@ -1,3 +1,5 @@
+#WAP to find the grade of a students. Put conditions as applied in your university.
+
 marks = int(input("Enter the marks: "))
 
 if(marks >=90 and marks<=100):
