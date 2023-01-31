@@ -1,3 +1,5 @@
+#WAP to find whether the given number is an Amstrong number or not.
+
 num = int(input("Enter The Number: "))
 sum =0
 temp=num
