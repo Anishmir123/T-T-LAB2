@@ -1,8 +1,8 @@
 #An organization decides to give bonus to all its employee. Bonus of 5 % is given to male
-worker and 10 % to female worker. WAP to enter salary of an employee and gender of
-the employee. If the salary of person is less than 20000 then the employ gets an extra 5%
-bonus on salary. Calculate the bonus that has to be given to the employee and display the
-salary that employee will get.
+#worker and 10 % to female worker. WAP to enter salary of an employee and gender of
+#the employee. If the salary of person is less than 20000 then the employ gets an extra 5%
+#bonus on salary. Calculate the bonus that has to be given to the employee and display the
+#salary that employee will get.
 
 sal = int(input("Enter your salary: "))
 gen = input("Enter your age: ")
